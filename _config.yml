@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Lazilime"
   avatar           : "/assets/images/avatar.gif"
-  bio              : "一个兴趣使然的阿宅。"
+  bio              : "おたくです。"
   location         : "Void"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: lazilime@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

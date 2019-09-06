@@ -6,6 +6,9 @@ categories:
 tags: 
   - The Game
   - CN
+header:
+  image: /assets/images/yongzhan.jpg
+  image_description: "A header image"
 ---
 
 - 为培养出更多对抗**混沌**的力量，处于九重天之上的鸿蒙门往全宇宙随机下放**秩序**的试炼地，并往里头放置一定量的**混沌**作为试炼用途

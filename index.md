@@ -6,5 +6,9 @@ header:
   image_description: "A header image"
 ---
 
-<h1>本首页正在加工中，请点右上角的Posts查看内容(*╹▽╹*)</h1>
-<div style="display: grid;"></div>
+## 真的有好多要学的东西啊qaqqqqqq
+* JavaScript(自学写脚本不可避的一步)
+* RPGMaker MV(你就是我第一个跟着混的游戏引擎了【拍肩)
+* 赛璐璐(想要自己做角色设计和CG呀)
+
+\_(:з」∠)_勉强给自己打个气，希望能在成为社畜前搞完

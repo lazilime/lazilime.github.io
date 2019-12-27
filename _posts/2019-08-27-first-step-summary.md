@@ -1,6 +1,7 @@
 ---
 layout: posts
 title:  "初期准备总结"
+related: true
 categories: 
   - GameDev
 tags: 

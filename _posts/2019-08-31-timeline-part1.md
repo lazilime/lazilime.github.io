@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "一代前的简易时间线"
 related: true
 categories: 

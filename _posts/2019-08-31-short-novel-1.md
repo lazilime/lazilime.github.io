@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "温存"
 related: true
 categories: 

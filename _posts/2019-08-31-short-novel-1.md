@@ -2,10 +2,10 @@
 title:  "温存"
 related: true
 categories: 
-  - Novel
+  - article
 tags: 
   - The Game
-  - CN
+  - 简中
   - r18
 ---
 

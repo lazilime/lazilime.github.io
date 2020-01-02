@@ -25,7 +25,7 @@ url                      : "https://lazilime.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lazilime/lazilime.github.io"
 teaser                   : "/assets/images/teaser1.jpg"
-logo                     : "/assets/images/logo.jpg"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/lazilime"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/lazilime"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -232,7 +232,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
+  # - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -241,7 +241,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives
+  # - jekyll-archives
 
 
 # Archives

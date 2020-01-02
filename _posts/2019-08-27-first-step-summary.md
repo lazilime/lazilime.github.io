@@ -2,10 +2,10 @@
 title:  "初期准备总结"
 related: true
 categories: 
-  - GameDev
+  - article
 tags: 
   - The Game
-  - CN
+  - 简中
 ---
 唔，总算下了决心要开始制作这个故事了，来个目前进度的总结让自己瞅瞅。
 

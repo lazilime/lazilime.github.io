@@ -2,10 +2,10 @@
 title:  "一代前的简易时间线"
 related: true
 categories: 
-  - GameDev
+  - article
 tags: 
   - The Game
-  - CN
+  - 简中
 # header:
 #   image: /assets/images/yongzhan.jpg
 #   image_description: "A header image"

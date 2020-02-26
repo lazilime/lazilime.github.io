@@ -303,3 +303,8 @@ defaults:
       layout: single
       author_profile: true
   
+# Javascript stuff
+head_scripts:
+  # - /assets/js/jquery-3.4.1.js
+  # - /assets/js/jquery-ui.min.js
+  - /assets/js/custom.js

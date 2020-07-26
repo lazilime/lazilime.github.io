@@ -1,3 +1,4 @@
+// used in /about
 function activeTab(tabName) {
     var i;
     var x = document.getElementsByClassName("tab--content");

@@ -116,21 +116,16 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "Lazilime"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lazilime"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "lazilime@o3o.ca"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://o3o.ca/web/accounts/34376"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/lazilime"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:

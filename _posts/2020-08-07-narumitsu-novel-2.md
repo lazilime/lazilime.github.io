@@ -10,7 +10,7 @@ tags:
   - ミツナル
   
 header:
-  teaser: /assets/images/repo/teaser.jpg
+  teaser: /assets/images/teaser.jpg
 ---
 
 成步堂龙一摘掉了盖在脸上的毛线帽，捡起了一旁沙发桌上不停震动的手机。

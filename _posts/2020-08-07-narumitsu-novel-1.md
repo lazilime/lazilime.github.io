@@ -9,8 +9,6 @@ tags:
   - ナルミツ
   - ミツナル
   
-header:
-  teaser: /assets/images/teaser.jpg
 ---
 
 这是个普通而又不寻常的周三早晨。
